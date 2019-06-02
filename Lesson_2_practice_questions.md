@@ -6,7 +6,7 @@ All copyright belong to owner of above page.
 
 
 1. Which of the following are operators, and which are values?
-
+```
  *
 'hello'
 -88.8
@@ -14,12 +14,13 @@ All copyright belong to owner of above page.
 /
 +
 5
+```
 
 2. Which of the following is a variable, and which is a string?
-
+```
  spam
 'spam'
-
+```
 3. Name three data types.
 
 
@@ -30,15 +31,15 @@ All copyright belong to owner of above page.
 
 
 6. What does the variable bacon contain after the following code runs?
-
- bacon = 20
+```
+bacon = 20
 bacon + 1
-
+```
 7. What should the following two expressions evaluate to?
-
- 'spam' + 'spamspam'
+```
+'spam' + 'spamspam'
 'spam' * 3
-
+```
 8. Why is eggs a valid variable name while 100 is invalid?
 
 
